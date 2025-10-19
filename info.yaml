@@ -18,21 +18,21 @@ pinout:
   # Inputs
   ui[0]: "in 1 Nand"
   ui[1]: "in2 NAND"
-  ui[2]: ""
+  ui[2]: "in2"
   ui[3]: "in1 OR"
   ui[4]: "in2 OR"
-  ui[5]: ""
+  ui[5]: "in5"
   ui[6]: "in1 OR"
   ui[7]: "in2 OR"
 
   # Outputs
   uo[0]: "out Nand"
-  uo[1]: ""
+  uo[1]: "out2"
   uo[2]: "direct out from switch[2]"
   uo[3]: "out OR"
-  uo[4]: ""
+  uo[4]: "out4"
   uo[5]: "direct out from switch[5]"
-  uo[6]: ""
+  uo[6]: "out6"
   uo[7]: "out OR"
 
   # Bidirectional pins
